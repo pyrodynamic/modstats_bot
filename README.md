@@ -1,2 +1,2 @@
 # modstats_bot
-Moderation statistic for the Mathematics Discord server.
+A bot that provides moderation statistics for the Mathematics Discord server.
